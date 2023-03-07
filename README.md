@@ -1,3 +1,7 @@
+# Archived
+
+This project is archived. Please see [datadog-examples](https://github.com/johnrichter/datadog-examples) instead.
+
 # Kong | Datadog Example
 
 This repo is an example of how to monitor [Kong][kong-site-url] with Datadog. It depends on a few third party open source applications.
